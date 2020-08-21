@@ -1,6 +1,6 @@
 ---
 layout: post
 title: ارزیابی
-published: false
+published: true
 ---
 [برای دانلود ارزیابی کلیک کنید](mailto:email@domain.com)
