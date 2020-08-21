@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: رزومه فارسی
 published: true
 ---
  امیرحسین سبزه ئی
