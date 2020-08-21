@@ -11,4 +11,4 @@ published: true
 
 
 
-[برای دانلود ارزیابی کلیک کنید](https://github.com/amir3220/amir3220.github.io/blob/master/AS_CV_CheckList_AR_3983%20_1_.pdf)
+[برای دانلود ارزیابی کلیک کنید]({{baseurl.site}}/AS_CV_CheckList_AR_3983 _1_.pdf)
