@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ارزیابی رزومه
 permalink: /about/
 published: true
 ---
