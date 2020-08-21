@@ -1,7 +1,7 @@
 ---
 layout: post
 title: رزومه فارسی
-published: true
+published: false
 ---
 امیرحسین سبزه ئی&nbsp; &nbsp; 
 متولد: ۱۳۷۰/۱۱/۱۵  &nbsp; &nbsp;  
