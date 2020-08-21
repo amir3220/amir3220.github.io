@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ارزیابی رزومه
+title: En resume
 permalink: /about/
 published: true
 ---
@@ -8,7 +8,7 @@ published: true
 
 
 
-ارزیابی
 
 
-[برای دانلود کلیک کنید](mailto:email@domain.com)
+
+[برای دانلود ارزیابی کلیک کنید](mailto:email@domain.com)
