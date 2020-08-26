@@ -7,7 +7,7 @@ published: true
 <p dir=ltr>
   
   <br/>
-  <font size="+1"> <h1 style = "color:red;" > &nbsp;General&nbsp;Information: </h1> </font>
+  <font size="+1"> <h1 dir=ltr  style = "color:red;" > &nbsp;General&nbsp;Information: </h1> </font>
   
   
   
@@ -15,17 +15,17 @@ published: true
           
  Date of batrth:&nbsp;  1370/11/15 &nbsp; &nbsp;  
 Marid&nbsp; &nbsp;  
-Militiry service: expired&nbsp; &nbsp;  
+  
 amirsabzehee@gmail.com &nbsp; &nbsp; 
 09186248256&nbsp; &nbsp; 
 Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp;
 
-<br />
+<br dir=ltr />
           
-          <font size="+1"> <h1 style = "color:red;" > &nbsp; About me:&nbsp; </h1> </font>
+          <font size="+1"> <h1 dir=ltr style = "color:red;" > &nbsp; About me:&nbsp; </h1> </font>
  
 clever and intrested in programing
- <br />
+ <br /dir=ltr>
 
 
 
@@ -33,14 +33,14 @@ clever and intrested in programing
 
           
 
- <font size="+1"> <h1 style = "color:red;" > Educational background:</h1> </font>
+ <font size="+1"> <h1 dir=ltr style = "color:red;" > Educational background:</h1> </font>
 
  
 &nbsp;	Master of Air traffic controll
 &nbsp;Branche: Controll Center
 &nbsp;Civil Aviation Technology College 
-۱۳۸۹ - ۱۳۹۳ &nbsp;Grade point average:17/1
-	<br />
+&nbsp;Grade point average:17/1
+	<br /dir=ltr>
     
     
 کارشناسی ارشد مهندسی کامپیوتر
@@ -48,10 +48,10 @@ clever and intrested in programing
 &nbsp;دانشگاه: تهران شمال پیام نور&nbsp;
 &nbsp;&nbsp;ورودی سال ۱۳۹۸ معدل : ۱۷&nbsp; 
 
-<br />
+<br /dir=ltr>
 
 
-           <font size="+1"> <h1 style = "color:red;" > سوابق شغلی:</h1> </font>
+           <font size="+1"> <h1 dir=ltr style = "color:red;" > سوابق شغلی:</h1> </font>
 
          &nbsp; کنترلر&nbsp;
 شرکت: فرودگاه های کشور&nbsp; 
