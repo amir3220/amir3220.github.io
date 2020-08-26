@@ -1,6 +1,6 @@
 ---
 layout: page
-title: En resume
+title: 'رزومه انگلیسی:'
 permalink: /about/
 published: true
 ---
