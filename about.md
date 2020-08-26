@@ -13,7 +13,7 @@ published: true
   
     
           
- Date of batrth:&nbsp;  1370/11/15 &nbsp; &nbsp;  
+ Date of bitrth:&nbsp;  1370/11/15 &nbsp; &nbsp;  
 Marid&nbsp; &nbsp;  
   
 amirsabzehee@gmail.com &nbsp; &nbsp; 
@@ -39,39 +39,41 @@ clever and intrested in programing
 &nbsp;	Master of Air traffic controll
 &nbsp;Branche: Controll Center
 &nbsp;Civil Aviation Technology College 
-&nbsp;Grade point average:17/1
+&nbsp;Grade point average:17/18
 	<br /dir=ltr>
     
     
-کارشناسی ارشد مهندسی کامپیوتر
-&nbsp;گرایش: نرم افزار&nbsp;
-&nbsp;دانشگاه: تهران شمال پیام نور&nbsp;
-&nbsp;&nbsp;ورودی سال ۱۳۹۸ معدل : ۱۷&nbsp; 
+Master of Computer
+&nbsp;Branche: Software&nbsp;
+&nbsp;Univercity:&nbsp;tehran shomal
+&nbsp;&nbsp;Grade point average:17/18 &nbsp; 
 
 <br /dir=ltr>
 
 
-           <font size="+1"> <h1 dir=ltr style = "color:red;" > سوابق شغلی:</h1> </font>
+           <font size="+1"> <h1 dir=ltr style = "color:red;" > Work experiance
+             :</h1> </font>
 
-         &nbsp; کنترلر&nbsp;
-شرکت: فرودگاه های کشور&nbsp; 
-&nbsp;&nbsp;آغاز همکاری از آبان ۱۳۹۳&nbsp; 
+         &nbsp; controller&nbsp;
+Iranin Airport compani&nbsp; 
+&nbsp;&nbsp;20
+  16&nbsp; 
 
           
           <br />
           
        
-           <font size="+1"> <h1 style = "color:red;" > مهارت ها:</h1> </font>
+           <font size="+1"> <h1 dir=ltr style = "color:red;" > Skills:</h1> </font>
           
           
           
           
-	&nbsp;&nbsp;نرم افزار 3dsmax و autocad&nbsp;&nbsp;
+	&nbsp;&nbsp;Software:3dsmax and autocad&nbsp;&nbsp;
           
          
-	&nbsp;&nbsp;تعمیرات و عیب یابی گوشی&nbsp;&nbsp;&nbsp;&nbsp; تاثیر گذاری / مذاکره&nbsp; 
+	&nbsp;&nbsp;Phone repairman&nbsp;&nbsp;&nbsp;&nbsp; تاثیر گذاری / مذاکره&nbsp; 
 
-<br />
+<br dir=ltr />
 
           
           
