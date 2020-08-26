@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page dir=ltr
 title: 'رزومه انگلیسی:'
 permalink: /about/
 published: true
