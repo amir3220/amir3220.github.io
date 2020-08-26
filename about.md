@@ -16,10 +16,3 @@ View reference documentation to learn about the resources available in the GitHu
 Guides→
 
 Learn about getting started with the REST API, authentication, and how to use the REST API for a variety of tasks.
-
-
-
-
-
-
-
