@@ -11,21 +11,21 @@ published: true
   
   
   
-    
+   <p dir=ltr> 
           
  Date of bitrth:&nbsp;  1370/11/15 &nbsp; &nbsp;  
 Marid&nbsp; &nbsp;  
   
 amirsabzehee@gmail.com &nbsp; &nbsp; 
 09186248256&nbsp; &nbsp; 
-Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp;
+Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp; </p>
 
-<br dir=ltr />
+<br />
           
           <font size="+1"> <h1 dir=ltr style = "color:red;" > &nbsp; About me:&nbsp; </h1> </font>
  
 clever and intrested in programing
- <br /dir=ltr>
+ <br />
 
 
 
