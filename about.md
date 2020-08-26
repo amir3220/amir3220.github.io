@@ -5,6 +5,133 @@ permalink: /about/
 published: true
 ---
 <p dir=ltr>
+  
+  <br/>
+  <font size="+1"> <h1 style = "color:red;" > &nbsp;General&nbsp;Information: </h1> </font>
+  
+  
+  
+    
+          
+ Date of batrth:&nbsp;  1370/11/15 &nbsp; &nbsp;  
+Marid&nbsp; &nbsp;  
+Militiry service: expired&nbsp; &nbsp;  
+amirsabzehee@gmail.com &nbsp; &nbsp; 
+09186248256&nbsp; &nbsp; 
+Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp;
+
+<br />
+          
+          <font size="+1"> <h1 style = "color:red;" > &nbsp; About me:&nbsp; </h1> </font>
+ 
+clever and intrested in programing
+ <br />
+
+
+
+
+
+          
+
+ <font size="+1"> <h1 style = "color:red;" > Educational background:</h1> </font>
+
+ 
+&nbsp;	Master of Air traffic controll
+&nbsp;Branche: Controll Center
+&nbsp;Civil Aviation Technology College 
+۱۳۸۹ - ۱۳۹۳ &nbsp;Grade point average:17/1
+	<br />
+    
+    
+کارشناسی ارشد مهندسی کامپیوتر
+&nbsp;گرایش: نرم افزار&nbsp;
+&nbsp;دانشگاه: تهران شمال پیام نور&nbsp;
+&nbsp;&nbsp;ورودی سال ۱۳۹۸ معدل : ۱۷&nbsp; 
+
+<br />
+
+
+           <font size="+1"> <h1 style = "color:red;" > سوابق شغلی:</h1> </font>
+
+         &nbsp; کنترلر&nbsp;
+شرکت: فرودگاه های کشور&nbsp; 
+&nbsp;&nbsp;آغاز همکاری از آبان ۱۳۹۳&nbsp; 
+
+          
+          <br />
+          
+       
+           <font size="+1"> <h1 style = "color:red;" > مهارت ها:</h1> </font>
+          
+          
+          
+          
+	&nbsp;&nbsp;نرم افزار 3dsmax و autocad&nbsp;&nbsp;
+          
+         
+	&nbsp;&nbsp;تعمیرات و عیب یابی گوشی&nbsp;&nbsp;&nbsp;&nbsp; تاثیر گذاری / مذاکره&nbsp; 
+
+<br />
+
+          
+          
+          
+ <font size="+1"> <h1 style = "color:red;" > افتخارات:</h1> </font> 
+
+
+          
+          دانشجوی ممتاز کارشناسی سال 1393
+
+
+<br />
+
+
+
+ <font size="+1"> <h1 style = "color:red;" > زبان ها:</h1> </font> 
+&nbsp;	&nbsp;انگلیسی&nbsp;
+مهارت خواندن 3 مهارت نوشتن 3 مهارت گفتاری 2 مهارت شنیداری4 
+<br />
+          &nbsp;چینی&nbsp;
+مهارت خواندن 1 مهارت نوشتن 2 مهارت گفتاری 1 مهارت شنیداری2
+          
+          
+          
+          <br />
+          
+
+ <font size="+1"> <h1 style = "color:red;" > دوره ها و گواهینامه ها:</h1> </font>
+          
+          
+          
+          
+          
+          &nbsp;uper intermediate&nbsp;
+         
+&nbsp;موسسه: کیش&nbsp;
+&nbsp;تاریخ: اردیبهشت ۱۳۹۹ &nbsp;
+
+          &nbsp;&nbsp;&nbsp;امدادگرونجاتگری هلال احمر&nbsp;
+موسسه: هلال احمر&nbsp;
+تاریخ: فروردین ۱۳۹۳&nbsp; 
+
+          
+          &nbsp;&nbsp;&nbsp;سطح یک و دو آی سی دی ال&nbsp;
+&nbsp;موسسه: فنی و حرفه ای&nbsp;
+تاریخ: خرداد ۱۳۸۸&nbsp; 
+
+<br />
+
+ <font size="+1"> <h1 style = "color:red;" > تحقیقات:</h1> </font> 
+روابط انسانی در مراقبت پرواز 
+  
+  
+  
+  
+  
+  
+  
+  
+  
 You can use the GitHub REST API to create calls to get the data you need to integrate with GitHub.
 Did this doc help you?
   <br />
