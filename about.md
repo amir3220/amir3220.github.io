@@ -7,10 +7,11 @@ published: true
 <p dir=ltr>
 You can use the GitHub REST API to create calls to get the data you need to integrate with GitHub.
 Did this doc help you?
+  <br />
 
 #REST API overview→
-
-##Learn about 
+<br />
+##Learn about <br />
 resources, libraries, previews and troubleshooting for GitHub's REST API.
 Reference→
 
