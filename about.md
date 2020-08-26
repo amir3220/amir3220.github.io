@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'مشاهده رزومه انگلیسی در ادامه رزومه فارسی:'
+title: 'رزومه انگلیسی:'
 permalink: /about/
 published: true
 ---
