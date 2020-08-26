@@ -107,7 +107,7 @@ Reading 1 Writing 2 Speaking 1 Lisening2
           <br /> </p>
           
 
- <font size="+1"> <h1 dir=ltr style = "color:red;" > دوره ها و گواهینامه ها:</h1> </font>
+ <font size="+1"> <h1 dir=ltr style = "color:red;" > Certficattes & Courses:</h1> </font>
           
           
           
@@ -127,7 +127,7 @@ Date: 2016&nbsp;
 
 Date: Nov 2009&nbsp; 
 
-<br />
+<br /> </p>
 
  <font size="+1"> <h1 dir=ltr style = "color:red;" > Researches:</h1> </font> 
   
