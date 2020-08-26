@@ -93,7 +93,7 @@ Iranin Airport compani&nbsp;
 
 
 
- <font size="+1"> <h1 style = "color:red;" > Languages ability:</h1> </font> 
+ <font size="+1"> <h1 dir=ltr style = "color:red;" > Languages ability:</h1> </font> 
  
  <p dir=ltr>
 &nbsp;	&nbsp;English&nbsp;
