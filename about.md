@@ -4,7 +4,7 @@ title: 'مشاهده رزومه انگلیسی در ادامه رزومه فار
 permalink: /about/
 published: true
 ---
-<p dir=ltr>
+
   
   <br/>
   <font size="+1"> <h1 dir=ltr  style = "color:red;" > &nbsp;General&nbsp;Information: </h1> </font>
@@ -25,7 +25,7 @@ Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp;
           
           <font size="+1"> <h1 dir=ltr style = "color:red;" > &nbsp; About me:&nbsp; </h1> </font>
  
-clever and intrested in programing
+   <p dir=ltr>  clever and intrested in programing  </p>
  <br/>
 
 
@@ -149,4 +149,4 @@ View reference documentation to learn about the resources available in the GitHu
 Guides→
 
 Learn about getting started with the REST API, authentication, and how to use the REST API for a variety of tasks.
-</p>
+
