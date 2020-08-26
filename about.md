@@ -58,98 +58,80 @@ Master of Computer
  <font size="+1"> <h1 dir=ltr style = "color:red;" > Work experiance
              :</h1> </font>
 
-         &nbsp; controller&nbsp;
+ <p dir=ltr> &nbsp; controller&nbsp;
 Iranin Airport compani&nbsp; 
 &nbsp;&nbsp;20
   16&nbsp; 
 
           
-          <br />
+          <br />   </p>
           
        
-           <font size="+1"> <h1 dir=ltr style = "color:red;" > Skills:</h1> </font>
+   <font size="+1"> <h1 dir=ltr style = "color:red;" > Skills:</h1> </font>
           
           
-          
+   <p dir=ltr>       
           
 	&nbsp;&nbsp;Software:3dsmax and autocad&nbsp;&nbsp;
           
          
-	&nbsp;&nbsp;Phone repairman&nbsp;&nbsp;&nbsp;&nbsp; تاثیر گذاری / مذاکره&nbsp; 
+	&nbsp;&nbsp;Phone repairman&nbsp;&nbsp;&nbsp;&nbsp; Rhetorical&nbsp; 
 
-<br dir=ltr />
-
-          
-          
-          
- <font size="+1"> <h1 style = "color:red;" > افتخارات:</h1> </font> 
-
+<br />   </p>
 
           
-          دانشجوی ممتاز کارشناسی سال 1393
+          
+          
+ <font size="+1"> <h1 dir=ltr style = "color:red;" >Honors:</h1> </font> 
 
 
+          
+<p dir=ltr>          privileged student 2014
+
+
+<br /> </p>
+
+
+
+ <font size="+1"> <h1 style = "color:red;" > Languages ability:</h1> </font> 
+ 
+ <p dir=ltr>
+&nbsp;	&nbsp;English&nbsp;
+Reading 3 Writing 3 Speaking 2 Listening 4 
 <br />
-
-
-
- <font size="+1"> <h1 style = "color:red;" > زبان ها:</h1> </font> 
-&nbsp;	&nbsp;انگلیسی&nbsp;
-مهارت خواندن 3 مهارت نوشتن 3 مهارت گفتاری 2 مهارت شنیداری4 
-<br />
-          &nbsp;چینی&nbsp;
-مهارت خواندن 1 مهارت نوشتن 2 مهارت گفتاری 1 مهارت شنیداری2
+&nbsp;chinesee:&nbsp;
+Reading 1 Writing 2 Speaking 1 Lisening2
           
           
           
-          <br />
+          <br /> </p>
           
 
- <font size="+1"> <h1 style = "color:red;" > دوره ها و گواهینامه ها:</h1> </font>
+ <font size="+1"> <h1 dir=ltr style = "color:red;" > دوره ها و گواهینامه ها:</h1> </font>
           
           
           
+  <p dir=ltr>        
           
-          
-          &nbsp;uper intermediate&nbsp;
+   &nbsp; uper intermediate &nbsp;
          
-&nbsp;موسسه: کیش&nbsp;
-&nbsp;تاریخ: اردیبهشت ۱۳۹۹ &nbsp;
+&nbsp;Kis institue&nbsp;
+&nbsp;Date:Feb 2020 &nbsp;
 
-          &nbsp;&nbsp;&nbsp;امدادگرونجاتگری هلال احمر&nbsp;
-موسسه: هلال احمر&nbsp;
-تاریخ: فروردین ۱۳۹۳&nbsp; 
+ &nbsp;&nbsp;&nbsp;Red Crescent Relief&nbsp;
+
+Date: 2016&nbsp; 
 
           
-          &nbsp;&nbsp;&nbsp;سطح یک و دو آی سی دی ال&nbsp;
-&nbsp;موسسه: فنی و حرفه ای&nbsp;
-تاریخ: خرداد ۱۳۸۸&nbsp; 
+          &nbsp;&nbsp;&nbsp;ICDL&nbsp;
+
+Date: Nov 2009&nbsp; 
 
 <br />
 
- <font size="+1"> <h1 style = "color:red;" > تحقیقات:</h1> </font> 
-روابط انسانی در مراقبت پرواز 
+ <font size="+1"> <h1 dir=rtl style = "color:red;" > Researches:</h1> </font> 
+  
+  <p dir=rtl>Human Relation ship in air traffic controll </p>
   
   
-  
-  
-  
-  
-  
-  
-  
-You can use the GitHub REST API to create calls to get the data you need to integrate with GitHub.
-Did this doc help you?
-  <br />
-
-#REST API overview→
-<br />
-##Learn about <br />
-resources, libraries, previews and troubleshooting for GitHub's REST API.
-Reference→
-
-View reference documentation to learn about the resources available in the GitHub REST API.
-Guides→
-
-Learn about getting started with the REST API, authentication, and how to use the REST API for a variety of tasks.
-
+ 
