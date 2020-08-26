@@ -24,7 +24,9 @@ Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp;
 
 <br/>  </p>
           
-          <font size="+1"> <h1 dir=ltr style = "color:red;" > &nbsp; About me:&nbsp; </h1> </font>
+          
+          
+   <font size="+1"> <h1 dir=ltr style = "color:red;" > About me: </h1> </font>
  
    <p dir=ltr>  clever and intrested in programing 
  <br/> </p>
@@ -42,7 +44,7 @@ Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp;
 &nbsp;Branche: Controll Center
 &nbsp;Civil Aviation Technology College 
 &nbsp;Grade point average:17/18  
-	<br /dir=ltr> </p>
+	<br /dir=ltr> 
     
     
 Master of Computer
@@ -50,10 +52,10 @@ Master of Computer
 &nbsp;Univercity:&nbsp;tehran shomal
 &nbsp;&nbsp;Grade point average:17/18 &nbsp; 
 
-<br /dir=ltr>
+<br /dir=ltr>  </p>
 
 
-           <font size="+1"> <h1 dir=ltr style = "color:red;" > Work experiance
+ <font size="+1"> <h1 dir=ltr style = "color:red;" > Work experiance
              :</h1> </font>
 
          &nbsp; controller&nbsp;
