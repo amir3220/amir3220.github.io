@@ -129,9 +129,6 @@ Date: Nov 2009&nbsp;
 
 <br />
 
- <font size="+1"> <h1 dir=rtl style = "color:red;" > Researches:</h1> </font> 
+ <font size="+1"> <h1 dir=ltr style = "color:red;" > Researches:</h1> </font> 
   
-  <p dir=rtl>Human Relation ship in air traffic controll </p>
-  
-  
- 
+  <p dir=ltr>Human Relation ship in air traffic controll </p>
