@@ -8,7 +8,7 @@ published: true
   
   <p dir=ltr>
   
-  <font size="+1"> <h1 dir=ltr  style = "color:red;" > &nbsp;General&nbsp;Information: </h1> </font>
+  <font size="+2"> <h1 dir=ltr  style = "color:red;" > &nbsp;General&nbsp;Information: </h1> </font>
   
   
   
