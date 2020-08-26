@@ -6,7 +6,8 @@ published: true
 ---
 
   
-  <br/>
+  <p dir=ltr>
+  
   <font size="+1"> <h1 dir=ltr  style = "color:red;" > &nbsp;General&nbsp;Information: </h1> </font>
   
   
@@ -19,14 +20,14 @@ Marid&nbsp; &nbsp;
 amirsabzehee@gmail.com &nbsp; &nbsp; 
 09186248256&nbsp; &nbsp; 
 Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp; 
-</p>
 
-<br/>
+
+<br/>  </p>
           
           <font size="+1"> <h1 dir=ltr style = "color:red;" > &nbsp; About me:&nbsp; </h1> </font>
  
-   <p dir=ltr>  clever and intrested in programing  </p>
- <br/>
+   <p dir=ltr>  clever and intrested in programing 
+ <br/> </p>
 
 
 
@@ -36,12 +37,12 @@ Tehran, Tehransar, malek ashtar bvd,&nbsp; &nbsp;
 
  <font size="+1"> <h1 dir=ltr style = "color:red;" > Educational background:</h1> </font>
 
- 
+ <p dir=ltr>
 &nbsp;	Master of Air traffic controll
 &nbsp;Branche: Controll Center
 &nbsp;Civil Aviation Technology College 
-&nbsp;Grade point average:17/18
-	<br /dir=ltr>
+&nbsp;Grade point average:17/18  
+	<br /dir=ltr> </p>
     
     
 Master of Computer
